@@ -6,7 +6,13 @@ namespace LabFBW
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var fbw = new FizzBuzzWoof();
+            fbw.Run();
+
+
+            Console.WriteLine("\n\n-----------------------------------");
+            Console.WriteLine("End of Demo. Press any key to exit.");
+            Console.ReadKey();
         }
     }
 }

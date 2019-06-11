@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabFBW", "LabFBW\LabFBW.csproj", "{98C2F977-0E0B-4BC5-92BC-1E4AA346C12F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBWTest", "FBWTest\FBWTest.csproj", "{18016E15-00DB-4FAC-BA91-3A8FF3DEC120}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{98C2F977-0E0B-4BC5-92BC-1E4AA346C12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C2F977-0E0B-4BC5-92BC-1E4AA346C12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C2F977-0E0B-4BC5-92BC-1E4AA346C12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18016E15-00DB-4FAC-BA91-3A8FF3DEC120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18016E15-00DB-4FAC-BA91-3A8FF3DEC120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18016E15-00DB-4FAC-BA91-3A8FF3DEC120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18016E15-00DB-4FAC-BA91-3A8FF3DEC120}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
